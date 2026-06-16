@@ -1,23 +1,32 @@
 cff-version: 1.2.0
 title: "Franklin ACE 2000 Firmware Archive"
-message: "If you use this archive, please cite it as below."
+message: "If you use this archive in research or publication, please cite it as below."
 type: dataset
 authors:
   - family-names: Cox
-    given-names: Francis Patrick
-date-released: 2026-06-11
+    given-names: Patrick
+    orcid: ""
+    affiliation: "Independent researcher, Greenville, SC"
+repository-code: "https://github.com/thepatrickcox"
 abstract: >
-  Reconstruction and forensic analysis of four Franklin Computer Corporation
-  EPROMs (circa 1984-1985): production and beta system ROMs (firmware V5.0
-  and V5.2) and floppy-disk controller firmware for the ACE 2000 series,
-  the post-Apple-v.-Franklin clean-room generation of Apple II-compatible
-  firmware. Includes raw programmer reads, majority-vote canonical images,
-  reproducible analysis tools, and historical documentation.
+  Four EPROMs comprising a matched firmware set for the Franklin ACE 2000 series
+  (introduced October 1985), retained since the mid-1980s and read in June 2026.
+  The chips are direct physical evidence of the engineering response to
+  Apple Computer, Inc. v. Franklin Computer Corp., 714 F.2d 1240 (3d Cir. 1983)
+  — the case that established software in ROM as copyrightable. Includes production
+  ROM V5.0, beta revision V5.2, companion system ROM, and disk controller firmware,
+  with full technical analysis, methodology, and first-person provenance account.
 keywords:
-  - Franklin Computer
+  - Franklin Computer Corporation
   - Apple II
-  - firmware preservation
   - EPROM
-  - 6502
-  - retrocomputing
+  - firmware
+  - software copyright
+  - computer history
+  - clean-room implementation
   - Apple v. Franklin
+  - 6502
+  - 65C02
+license: "CC-BY-4.0"
+date-released: "2026-06-16"
+version: "1.0"
