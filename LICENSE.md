@@ -4,7 +4,7 @@ This archive contains three categories of material under different terms.
 
 ## Analysis tools (`tools/`)
 
-Copyright (c) 2026 Francis Patrick Cox. Released under the MIT License:
+Copyright (c) 2026 Patrick Cox. Released under the MIT License:
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -28,7 +28,7 @@ THE SOFTWARE.
 
 The written documents (`README.md`, `EXECUTIVE_SUMMARY.md`, `HISTORY.md`,
 `PROVENANCE.md`, `PERSONAL_ACCOUNT.md`, `analysis/*.md`), session screenshots,
-and chip photographs are copyright (c) 2026 Francis Patrick Cox and licensed
+and chip photographs are copyright (c) 2026 Patrick Cox and licensed
 under Creative Commons Attribution 4.0 International (CC BY 4.0):
 https://creativecommons.org/licenses/by/4.0/
 
