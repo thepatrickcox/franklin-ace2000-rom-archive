@@ -1,0 +1,5 @@
+*.BIN binary
+*.bin binary
+*.png binary
+*.md text
+*.py text

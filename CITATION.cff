@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "Franklin ACE 2000 Firmware Archive"
+message: "If you use this archive, please cite it as below."
+type: dataset
+authors:
+  - family-names: Cox
+    given-names: Francis Patrick
+date-released: 2026-06-11
+abstract: >
+  Reconstruction and forensic analysis of four Franklin Computer Corporation
+  EPROMs (circa 1984-1985): production and beta system ROMs (firmware V5.0
+  and V5.2) and floppy-disk controller firmware for the ACE 2000 series,
+  the post-Apple-v.-Franklin clean-room generation of Apple II-compatible
+  firmware. Includes raw programmer reads, majority-vote canonical images,
+  reproducible analysis tools, and historical documentation.
+keywords:
+  - Franklin Computer
+  - Apple II
+  - firmware preservation
+  - EPROM
+  - 6502
+  - retrocomputing
+  - Apple v. Franklin
