@@ -43,7 +43,7 @@ Each canonical image is an 8 KB payload reconstructed by majority vote across mu
     analysis/DATA_APPENDIX.md      machine-generated tables (do not edit)
     tools/                         the four Python tools used; no dependencies
     roms/canonical/                reconstructed 8 KB payloads + SHA256SUMS
-    roms/raw_reads/                all 14 original XGpro reads + SHA256SUMS
+    roms/raw_reads/                all 18 original XGpro reads + SHA256SUMS
     chip_photographs/              11 Leica photographs of all four chips (© Patrick Cox 2026)
     provenance_images/             XGpro session screenshots (June 4 and 9, 2026)
     apple_reference/               SHA-256 manifest of the Apple reference set
@@ -58,6 +58,8 @@ Every figure in `analysis/DATA_APPENDIX.md` is computed from the binaries by `to
     python3 tools/reconstruct.py out.bin roms/raw_reads/"franklin 1984-1985"*.BIN
 
 See `analysis/METHODOLOGY.md` for the complete procedure, including the device-profile behavior that produces the 32 KB read structure.
+
+The analysis tools have no external dependencies and run entirely on the Python standard library. Clone the repository and run `reconstruct.py` immediately — no `pip install` required.
 
 ## Status of the binaries
 
