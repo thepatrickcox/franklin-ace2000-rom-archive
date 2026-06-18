@@ -41,7 +41,7 @@ Each canonical image is an 8 KB payload reconstructed by majority vote across mu
     analysis/TECHNICAL_ANALYSIS.md full technical record
     analysis/METHODOLOGY.md        equipment, procedure, reproduction steps
     analysis/DATA_APPENDIX.md      machine-generated tables (do not edit)
-    tools/                         the four Python tools used; no dependencies
+    tools/                         the Python tools used; no dependencies
     roms/canonical/                reconstructed 8 KB payloads + SHA256SUMS
     roms/raw_reads/                all 18 original XGpro reads + SHA256SUMS
     chip_photographs/              11 Leica photographs of all four chips (© Patrick Cox 2026)
